@@ -14,7 +14,7 @@ I'm a passionate Computer Science and Engineering student at **SRM IST, Vadapala
 - **UI Libraries:** ShadCN, Chakra UI, Framer Motion, Hero UI
 - **Authentication:** Clerk, Firebase Auth
 - **AI/ML Frameworks:** TensorFlow, OpenAI API
-- **Other Tools:** Git, GitHub, ESLint, Prettier, Vercel, AWS
+- **Other Tools:** Git, GitHub, ESLint, Prettier, Vercel
 - **Programming Languages:** Python, JavaScript, C++, Java, HTML, CSS, SQL, TypeScript
 
 ## 💼 Projects
@@ -25,7 +25,7 @@ A seamless e-commerce platform built with **Next.js**, **Supabase**, **Clerk**, 
 
 ### 🔹 **TaskQuest**
 
-A gamified to-do habit tracker designed to boost productivity with engaging features and rewards. Built using **React**, **Supabase**, and **Framer Motion**.
+A gamified to-do habit tracker designed to boost productivity with engaging features and rewards. Built using **Next.js**, **Supabase**, and **Framer Motion**.
 
 ### 🔹 **SAKSHaM**
 
@@ -46,11 +46,12 @@ A community app that connects individuals with volunteers, NGOs, and local servi
 
 - **Hackathon Finalist** at Hackforge'25
 - Developed **SAKSHaM**, a project aligning with **SDG 11: Sustainable Cities and Communities**
+- Won second prize in **Game-a-thon**
 - Hosted the **Sci-Fi Debate** during **Technozarre-'25**
 
 ## ⚡ Fun Fact
 
-When I'm not coding, you might find me binge-watching sci-fi movies, exploring new tech trends, or experimenting with creative UI designs!
+When I'm not coding, you might find me binge-watching sci-fi movies and web series, exploring new tech trends, or experimenting with creative UI designs!
 
 ---
 
