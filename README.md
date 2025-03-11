@@ -1,22 +1,58 @@
-<h1 align="center">Hi 👋, I'm Aayush Samal</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi there, I'm Aayush Samal! 👋
 
-- 🔭 I’m currently working on *ShopSphere*
+🚀 **Full Stack Developer | AI Enthusiast | Tech Explorer**
 
-- 🌱 I’m currently learning *DSA*
+## 🧑‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [aayushsamal.vercel.app](aayushsamal.vercel.app)
+I'm a passionate Computer Science and Engineering student at **SRM IST, Vadapalani**, specializing in **Big Data Analytics**. As a tech enthusiast, I enjoy building innovative projects that solve real-world problems. Whether it's web development, AI solutions, or interactive apps, I'm always up for a challenge.
 
-- 💬 Ask me about *React, Next.js*
+## 🛠️ Tech Stack
 
-- 📫 How to reach me *aayushxtech@gmail.com*
+- **Frontend:** React.js, Next.js, React Native
+- **Backend:** Node.js (Express), Django
+- **Database:** Supabase, MongoDB, Firestore, SQLite
+- **UI Libraries:** ShadCN, Chakra UI, Framer Motion, Hero UI
+- **Authentication:** Clerk, Firebase Auth
+- **AI/ML Frameworks:** TensorFlow, OpenAI API
+- **Other Tools:** Git, GitHub, ESLint, Prettier, Vercel, AWS
+- **Programming Languages:** Python, JavaScript, C++, Java, HTML, CSS, SQL, TypeScript
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aayushxtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushxtech" height="30" width="40" /></a>
-</p>
+## 💼 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🔹 **ShopSphere**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushxtech&show_icons=true&locale=en&layout=compact" alt="aayushxtech" /></p>
+A seamless e-commerce platform built with **Next.js**, **Supabase**, **Clerk**, and **ShadCN**. Features include secure authentication, dynamic product catalog, and interactive UI.
+
+### 🔹 **TaskQuest**
+
+A gamified to-do habit tracker designed to boost productivity with engaging features and rewards. Built using **React**, **Supabase**, and **Framer Motion**.
+
+### 🔹 **SAKSHaM**
+
+A community app that connects individuals with volunteers, NGOs, and local services to foster a self-sustaining support network.
+
+## 🌱 What I'm Currently Learning
+
+- **Data Structures and Algorithms (DSA)** for improving problem-solving skills.
+- Advancing my knowledge in **AI/ML** with projects like stress level detection and finance assistants.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Aayush Samal](https://www.linkedin.com/in/aayush-samal/)
+- **Portfolio:** [aayushsamal.vercel.app](https://aayushsamal.vercel.app/)
+- **GitHub:** [@aayushxtech](https://github.com/aayushxtech)
+
+## 🏆 Achievements
+
+- **Hackathon Finalist** at Hackforge'25
+- Developed **SAKSHaM**, a project aligning with **SDG 11: Sustainable Cities and Communities**
+- Hosted the **Sci-Fi Debate** during **Technozarre-'25**
+
+## ⚡ Fun Fact
+
+When I'm not coding, you might find me binge-watching sci-fi movies, exploring new tech trends, or experimenting with creative UI designs!
+
+---
+
+✨ *Let's build something amazing together!*
+
