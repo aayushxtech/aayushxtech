@@ -40,9 +40,10 @@ An inclusive, gamified web platform to make sex education engaging and accessibl
 ## 🏆 Achievements
 
 - **Hackathon Finalist** at Xyntra 25 and **special mention** for UnSaid
-- **Hackathon Finalist** at Hackforge'25
+- Won **second prize** in **Build to Deploy**
+- **Hackathon Finalist** at **Hackforge'25**
 - Developed **SAKSHaM**, a project aligning with **SDG 11: Sustainable Cities and Communities**
-- Won second prize in **Game-a-thon**
+- Won **second prize** in **Game-a-thon**
 - Hosted the **Sci-Fi Debate** during **Technozarre-'25**
 
 ## ⚡ Fun Fact
