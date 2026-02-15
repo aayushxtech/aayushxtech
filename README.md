@@ -23,8 +23,6 @@ Dont expect good frontend from me**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/aayushxtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aayushxtech" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aayushxtech " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aayushxtech " height="30" width="40" /></a>
-<a href="https://twitter.com/AaysuhxTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AaysuhxTech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
